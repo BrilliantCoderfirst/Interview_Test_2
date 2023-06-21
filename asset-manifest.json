@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Interview_Test_2/static/css/main.1877b340.css",
+    "main.js": "/Interview_Test_2/static/js/main.84928cc8.js",
+    "index.html": "/Interview_Test_2/index.html",
+    "main.1877b340.css.map": "/Interview_Test_2/static/css/main.1877b340.css.map",
+    "main.84928cc8.js.map": "/Interview_Test_2/static/js/main.84928cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1877b340.css",
+    "static/js/main.84928cc8.js"
+  ]
+}
